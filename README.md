@@ -26,6 +26,8 @@ Lokabisa adalah inisiatif open ecosystem yang berfokus pada:
   Kumpulan skema data dasar untuk konteks Indonesia, seperti:
   alamat, geolokasi, jam operasional, kontak, dan status usaha.
 
+  👉 Lihat repositori: https://github.com/lokabisa/id-schemas
+
 ---
 
 ## 🧭 Prinsip Desain
@@ -60,3 +62,5 @@ Silakan gunakan Issue atau Pull Request.
 
 > Lokabisa bukan tentang tumbuh cepat,  
 > tetapi tentang membangun fondasi yang bisa dipakai lama.
+>
+> Kolaborasi terbuka bagi siapa pun yang mengerjakan konteks serupa.
