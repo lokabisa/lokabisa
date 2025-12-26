@@ -28,6 +28,14 @@ Lokabisa adalah inisiatif open ecosystem yang berfokus pada:
 
   👉 Lihat repositori: https://github.com/lokabisa/id-schemas
 
+### Community & Governance
+
+- **lokawarga-core**  
+  Core domain logic dan JSON Schema untuk pengelolaan komunitas warga (RT/RW),
+  dengan pendekatan local-first dan privacy-by-design.
+
+  👉 Lihat repositori: https://github.com/lokabisa/lokawarga-core
+
 ---
 
 ## 🧭 Prinsip Desain
